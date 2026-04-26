@@ -2,15 +2,15 @@
 
 Repository ini berisi implementasi model Machine Learning untuk mengklasifikasikan jenis buah (Jeruk atau Anggur) berdasarkan karakteristik fisik menggunakan tiga algoritma berbeda.
 
-## 📝 Deskripsi Masalah
+## Deskripsi Masalah
 Tujuan dari proyek ini adalah membangun model klasifikasi yang dapat membedakan antara buah **Orange** dan **Grapefruit** menggunakan dataset yang mencakup fitur diameter, berat, dan intensitas warna (RGB).
 
-## 📊 Dataset
+## Dataset
 Dataset yang digunakan adalah [Oranges vs. Grapefruit](https://www.kaggle.com/datasets/joshmcadams/oranges-vs-grapefruit) dari Kaggle.
 - **Fitur**: Diameter, Weight, Red, Green, Blue.
 - **Target**: Name (Orange atau Grapefruit).
 
-## 🛠️ Tahapan Pengerjaan (Metodologi)
+## Tahapan Pengerjaan (Metodologi)
 
 Langkah-langkah yang dilakukan dalam pembuatan model ini adalah sebagai berikut:
 
