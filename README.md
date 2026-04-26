@@ -34,7 +34,7 @@ Setiap model dievaluasi menggunakan metrik:
 * **Accuracy Score**: Persentase prediksi yang benar secara keseluruhan.
 * **Classification Report**: Detail mengenai Precision, Recall, dan F1-Score untuk masing-masing kelas.
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 1. Clone repository ini.
 2. Pastikan file `citrus.csv` berada di direktori yang sama.
 3. Jalankan file python atau notebook:
